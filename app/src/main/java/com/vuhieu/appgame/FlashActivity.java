@@ -20,4 +20,5 @@ public class FlashActivity extends AppCompatActivity {
             }
         }, 3000);
     }
+
 }
